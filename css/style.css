@@ -1,0 +1,103 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Estilos del contenido principal */
+main {
+    padding: 20px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+section img {
+    max-width: 200px;
+    margin-right: 20px;
+}
+
+section div {
+    text-align: center;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+footer div a {
+    margin-right: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer div a img {
+    width: 20px;
+    height: 20px;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+footer {
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+footer a {
+    margin-right: 10px;
+}
+
+/* Estilos específicos para los íconos */
+footer img {
+    width: 24px;
+    height: 24px;
+}
